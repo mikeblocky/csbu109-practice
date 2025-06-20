@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "language": "English",
+    "greeting": "Hello world!",
+    "formal": true
+  },
+  {
+    "id": 2,
+    "language": "Spanish",
+    "greeting": "¡Hola mundo!",
+    "formal": true
+  },
+  {
+    "id": 3,
+    "language": "French",
+    "greeting": "Bonjour le monde!",
+    "formal": true
+  },
+  {
+    "id": 4,
+    "language": "German",
+    "greeting": "Hallo, Welt!",
+    "formal": false
+  },
+  {
+    "id": 5,
+    "language": "Japanese",
+    "greeting": "こんにちは世界！",
+    "formal": true
+  },
+  {
+    "id": 6,
+    "language": "Portuguese",
+    "greeting": "Olá Mundo!",
+    "formal": true
+  },
+  {
+    "id": 7,
+    "language": "Italian",
+    "greeting": "Ciao mondo!",
+    "formal": false
+  },
+  {
+    "id": 8,
+    "language": "Russian",
+    "greeting": "Привет, мир!",
+    "formal": false
+  },
+  {
+    "id": 9,
+    "language": "Mandarin Chinese",
+    "greeting": "你好，世界！",
+    "formal": true
+  },
+  {
+    "id": 10,
+    "language": "Korean",
+    "greeting": "안녕, 세상!",
+    "formal": false
+  },
+  {
+    "id": 11,
+    "language": "Hindi",
+    "greeting": "नमस्ते दुनिया!",
+    "formal": true
+  }
+]
